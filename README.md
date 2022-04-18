@@ -1,4 +1,3 @@
-### 欢迎你， 👋 我的第<img height="20em" src="https://profile-counter.glitch.me/HBSnail/count.svg" />位来访者
 <a href="https://github.com/HBSnail">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HBSnail&count_private=true&show_icons=true&bg_color=40,FFFFFF,DDDDFF" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HBSnail&bg_color=40,FFFFFF,EEEEFF&layout=compact" />
